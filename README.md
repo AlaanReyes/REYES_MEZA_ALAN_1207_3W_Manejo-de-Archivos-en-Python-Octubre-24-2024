@@ -1,6 +1,13 @@
 # REYES_MEZA_ALAN_1207_3W_Manejo-de-Archivos-en-Python-Octubre-24-2024
 # Manejo de Archivos en Python Octubre 24 2024
 
+# CODIGO 
+![image](https://github.com/user-attachments/assets/5b224c7e-9404-47d6-9333-c6fa143da5b6)
+# EJECUTADO
+![image](https://github.com/user-attachments/assets/81ca8e17-4b28-4610-b1e5-6fed9e8d7d95)
+
+# Manejo de Archivos en Python Octubre 24 2024
+
 # CODIGO
 ![image](https://github.com/user-attachments/assets/3f735c47-6be8-478d-a2dc-f4d94e2a32d0)
 ![image](https://github.com/user-attachments/assets/1c791395-b257-40f8-afbf-3cfe072eae7f)
