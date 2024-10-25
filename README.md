@@ -10,4 +10,4 @@
 
 
 # EJECUTADO 
-![image](https://github.com/user-attachments/assets/afcdde09-e6eb-4e53-972e-870cb893819a)
+![image](https://github.com/user-attachments/assets/6375e917-3736-4006-9e5d-f7b4ac0fcf09)
