@@ -2,9 +2,11 @@
 # Manejo de Archivos en Python Octubre 24 2024
 
 # CODIGO 
-![image](https://github.com/user-attachments/assets/5b224c7e-9404-47d6-9333-c6fa143da5b6)
+![image](https://github.com/user-attachments/assets/7de81ac5-8edb-4d3c-a9eb-178d0b67ad9d)
+
 # EJECUTADO
-![image](https://github.com/user-attachments/assets/81ca8e17-4b28-4610-b1e5-6fed9e8d7d95)
+![image](https://github.com/user-attachments/assets/5275b61d-0fab-4e99-a989-5a789b77a8b4)
+
 
 # Manejo de Archivos en Python Octubre 24 2024
 
